@@ -29,6 +29,10 @@ h2 {
   font-size: 64px;
 }
 
+h3 a {
+  color: #272142;
+}
+
 h4 {
   font-size: 48px;
 }
@@ -55,7 +59,6 @@ nav {
 nav li {
   display: inline;
   list-style: none;
-  padding: 40px;
   margin-left: 15px;
   line-height: 5;
 }
